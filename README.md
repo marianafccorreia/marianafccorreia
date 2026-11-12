@@ -43,11 +43,4 @@ I'm always looking for opportunities, connections, and projects where I can appl
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
----
 
-### 💻 IDEs & Workflow
-
-![VS Code](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![Notion](https://shields.io)
