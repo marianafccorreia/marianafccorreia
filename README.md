@@ -18,7 +18,7 @@ I'm always looking for opportunities, connections, and projects where I can appl
 
 ### 📊 Mariana's GitHub Stats
 
-![Mariana's GitHub Stats](https://vercel.app)
+![Mariana's GitHub Stats](https://github.com/marianafccorreia)
 
 ---
 
