@@ -18,7 +18,7 @@ I'm always looking for opportunities, connections, and projects where I can appl
 
 ### 📊 Mariana's GitHub Stats
 
-![Mariana's GitHub Stats](https://github.com/marianafccorreia)
+![Mariana's GitHub Stats](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)(https://github.com/marianafccorreia)
 
 ---
 
